@@ -1,4 +1,6 @@
-## Hi there 👋
+## <h1>Hey, I'm Gustavo ❄️</h1>
+
+<p>Nice to meet you! I'm current work as a software engineer. I have a degree in Systems Analysis and Development, and I currently work with technology in the healthcare field. My areas of interest are web and mobile development.</p>
 
 <!--
 **gustavbrusch/gustavbrusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
